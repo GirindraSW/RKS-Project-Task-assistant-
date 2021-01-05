@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Presensi Online</string>
+    <array name="spinner_subject">
+        <item>Basic of Programming</item>
+        <item>Data Structure</item>
+        <item>Basic of Computer System</item>
+        <item>Statistics</item>
+        <item>Web Programming</item>
+        <item>Algorithm Programming</item>
+    </array>
+</resources>
